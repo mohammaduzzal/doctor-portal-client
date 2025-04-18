@@ -12,7 +12,7 @@ const Navbar = () => {
 
 
     return (
-        <div className="navbar bg-base-100 shadow-sm sticky top-0 z-50">
+        <div className="navbar bg-white/50 shadow-sm sticky top-0 z-50">
             <div className="navbar-start">
                 <Link to='/'>DOCTOR PORTAL</Link>
             </div>

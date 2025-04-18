@@ -4,7 +4,7 @@ const Footer = () => {
         <div className='relative'>
             {/* image container */}
             <div className='absolute inset-0 z-0'>
-                <img src={footerPic} alt="footer background" className='w-full h-full object-cover opacity-20' />
+                <img src={footerPic} alt="footer background" className='w-full h-full object-cover opacity-80' />
             </div>
             <div className='relative z-10'>
             <footer className="footer sm:footer-horizontal text-base-content p-10">
